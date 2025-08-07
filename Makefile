@@ -1,5 +1,5 @@
 NAME := my-echo
-REPOSITORY := ashidasena/$(NAME)
+REPOSITORY := A-Sena157/$(NAME)
 TAG := 20250807
 GOOS := linux
 GOARCH := arm64
